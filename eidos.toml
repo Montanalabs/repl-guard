@@ -1,0 +1,7 @@
+name = "repl-guard"
+version = "0.1.0"
+description = "REPL guard"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
